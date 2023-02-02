@@ -1,0 +1,15 @@
+#face{
+    font-size: 100px;
+    color:blue;
+    
+    
+}
+#main
+{
+    border:2px solid blue;
+
+    
+}
+select{
+    width: 100px;
+}
